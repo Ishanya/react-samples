@@ -2,7 +2,7 @@ module.exports =
     [
         {
             "name": "Allison Phelps",
-            "gender": "male",
+            "gender": "female",
             "age": 35,
             "balance": "$1,363.76",
             "phone": "+1 (855) 404-2085",
@@ -10,7 +10,7 @@ module.exports =
         },
         {
             "name": "Schneider Rivers",
-            "gender": "male",
+            "gender": "female",
             "age": 23,
             "balance": "$1,600.30",
             "phone": "+1 (928) 503-3748",
