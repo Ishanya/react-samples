@@ -35,7 +35,7 @@ module.exports =
         {
             "name": "Mathis Crane",
             "gender": "male",
-            "age": 37,
+            "age": 50,
             "balance": "$3,016.28",
             "phone": "+1 (998) 416-2732",
             "address": "982 Exeter Street, Islandia, Wisconsin, 5549"
