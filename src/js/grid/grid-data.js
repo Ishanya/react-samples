@@ -2,7 +2,7 @@ module.exports =
     [
         {
             "name": "Allison Phelps",
-            "gender": "female",
+            "gender": "male",
             "age": 35,
             "balance": "$1,363.76",
             "phone": "+1 (855) 404-2085",
