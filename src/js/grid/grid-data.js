@@ -27,7 +27,7 @@ module.exports =
         {
             "name": "Lawanda Moore",
             "gender": "male",
-            "age": 33,
+            "age": 38,
             "balance": "$2,696.92",
             "phone": "+1 (890) 435-2365",
             "address": "582 Greene Avenue, Crumpler, Montana, 5082"
