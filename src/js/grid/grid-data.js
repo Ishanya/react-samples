@@ -18,7 +18,7 @@ module.exports =
         },
         {
             "name": "Morrow Gilbert",
-            "gender": "male",
+            "gender": "female",
             "age": 35,
             "balance": "$2,418.43",
             "phone": "+1 (990) 406-3742",
@@ -26,7 +26,7 @@ module.exports =
         },
         {
             "name": "Lawanda Moore",
-            "gender": "female",
+            "gender": "male",
             "age": 33,
             "balance": "$2,696.92",
             "phone": "+1 (890) 435-2365",
