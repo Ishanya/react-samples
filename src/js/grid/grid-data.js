@@ -11,7 +11,7 @@ module.exports =
         {
             "name": "Schneider Rivers",
             "gender": "female",
-            "age": 23,
+            "age": 24,
             "balance": "$1,600.30",
             "phone": "+1 (928) 503-3748",
             "address": "963 Forest Place, Boling, Georgia, 5846"
