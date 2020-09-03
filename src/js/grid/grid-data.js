@@ -9,14 +9,6 @@ module.exports =
             "address": "621 Willmohr Street, Cliffside, Federated States Of Micronesia, 4717"
         },
         {
-            "name": "Schneider Rivers",
-            "gender": "female",
-            "age": 24,
-            "balance": "$1,600.30",
-            "phone": "+1 (928) 503-3748",
-            "address": "963 Forest Place, Boling, Georgia, 5846"
-        },
-        {
             "name": "Morrow Gilbert",
             "gender": "female",
             "age": 35,
