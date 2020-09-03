@@ -9,6 +9,13 @@ module.exports =
             "address": "621 Willmohr Street, Cliffside, Federated States Of Micronesia, 4717"
         },
         {
+            "name": "Schneider Rivers",
+            "gender": "female",
+            "age": 24,
+            "balance": "$1,600.30",
+           
+        },
+        {
             "name": "Morrow Gilbert",
             "gender": "female",
             "age": 35,
